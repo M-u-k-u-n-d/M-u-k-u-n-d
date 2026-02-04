@@ -97,21 +97,6 @@ A **full-featured catalog management system** focused on clean UI, state managem
 
 ---
 
-
-## 📈 GitHub Stats
-![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-u-k-u-n-d&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-u-k-u-n-d&layout=compact&theme=radical)
-
----
-
-## 🎯 Focus Areas  
-- 🔐 Backend security & authentication systems  
-- 🧠 Data Structures & Algorithms  
-- 🌐 Scalable backend & system design  
-- ⚙️ Writing clean, maintainable, production-ready code  
-
----
-
 ## 📫 Connect With Me  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-u-k-u-n-d)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukund-tiwari-06b433219/)
