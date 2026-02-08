@@ -37,8 +37,8 @@ I enjoy building **end-to-end applications**, understanding **system design & ba
 # 📊 Stats:
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ax777x?theme=dark&font=Open%20Sans&ext=heatmap" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukund_Tiwari&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="48%">
+  <img src="https://leetcard.jacoblin.cool/Mukund_Tiwari?theme=dark&font=Open%20Sans&ext=heatmap" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-u-k-u-n-d&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="48%">
 </div>
 
 ## 🏆 Featured Projects  
