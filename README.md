@@ -142,17 +142,22 @@ A job portal connecting recruiters and job seekers.
 
 ---
 
+
 ## Problem Solving
 
 <div align="center">
 
 | Platform | Achievement | Maximum Rating |
-|---|---|---:|
+|:---:|:---:|:---:|
 | LeetCode | Knight | 1892 |
 | Codeforces | Pupil | 1365 |
 | CodeChef | 3-Star | 1698 |
 
 ### 1400+ DSA Problems Solved
+
+<a href="https://leetcode.com/">
+  <img src="https://leetcard.jacoblin.cool/Mukund_Tiwari?theme=dark&font=Fira+Code&ext=heatmap" width="100%" alt="LeetCode Activity Heatmap"/>
+</a>
 
 </div>
 
