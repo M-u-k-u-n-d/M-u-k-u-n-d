@@ -1,112 +1,326 @@
-# Hi there, I'm Mukund Tiwari 👋  
 
-## 🚀 Associate Software Engineer | Full-Stack Developer | Backend Enthusiast  
-
-I’m a **Software Engineer at Tech Mahindra**, with strong hands-on experience in **Java, Spring Boot, and modern frontend frameworks**.  
-I enjoy building **end-to-end applications**, understanding **system design & backend internals**, and solving **DSA problems** to strengthen my fundamentals.
-
----
-
-## 📍 Currently
-- 🏢 **Associate Software Engineer (ASE)** @ Tech Mahindra  
-- 🛠️ Working on a **Nuxt 3 multi-brand e-commerce platform (Canvas)**  
-- 🧩 Following **domain-driven layer architecture** & strict engineering standards  
-- 🌱 Deepening knowledge in **Spring Boot, Spring Security & scalable backend systems**
-
----
-
-## 💼 Skills & Expertise
-- **Backend Development** → Java 21, Spring Boot, Spring Security, REST APIs  
-- **Frontend Development** → React.js, Nuxt 3, JavaScript, HTML, CSS, Tailwind CSS  
-- **Databases** → MySQL  
-- **Tools & Platforms** → Git, GitHub, Postman, AWS (Elastic Beanstalk)  
-- **Problem Solving** → Data Structures & Algorithms (LeetCode, CodeChef, Codeforces)
-
----
-
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Nuxt](https://img.shields.io/badge/-Nuxt%203-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-# 📊 Stats:
+<!-- ======================================================= -->
+<!--                  MUKUND TIWARI                          -->
+<!--              GITHUB PROFILE README                      -->
+<!-- ======================================================= -->
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Mukund_Tiwari?theme=dark&font=Open%20Sans&ext=heatmap" width="48%">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-u-k-u-n-d&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="48%"> -->
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090E1A,50:142B4A,100:00D9FF&height=220&section=header&text=Mukund%20Tiwari&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Engineering&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
+
+  <br/>
+
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Exploring+Agentic+AI+%26+Multi-Agent+Systems;Spring+Boot+%7C+LangChain+%7C+LangGraph;Problem+Solver+%7C+1400%2B+DSA+Problems" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/mukund-tiwari-06b433219/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/M-u-k-u-n-d">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:mukundtiwari251103@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=M-u-k-u-n-d&style=flat-square&color=00D9FF&label=PROFILE+VIEWS)
+
 </div>
 
-## 🏆 Featured Projects  
+---
 
-### 🔐 NotesLock – Secure Notes Application  
-A **secure notes management system** built to deeply understand **Spring Security** concepts.
+## `$ whoami`
 
-✨ **Key Highlights:**  
-- Authentication & authorization using **Spring Security**  
-- Secure REST APIs with role-based access  
-- **Spring Boot (Backend) + React (Frontend)**  
-- Focused on backend security best practices  
+```java
+public class MukundTiwari {
+
+    String currentRole = "Digital Specialist Engineer";
+    String company = "Infosys";
+
+    String[] interests = {
+        "Java Backend Development",
+        "Artificial Intelligence",
+        "Agentic AI & Multi-Agent Systems",
+        "Problem Solving & System Design"
+    };
+
+    String[] currentlyExploring = {
+        "Spring Boot",
+        "LangChain",
+        "LangGraph",
+        "FastAPI"
+    };
+
+    int dsaProblemsSolved = 1400;
+
+    String philosophy =
+        "Build. Learn. Solve. Repeat.";
+}
+```
+
+- Currently working as a **Digital Specialist Engineer at Infosys**.
+- Previously worked at **Tech Mahindra**, contributing to VF Corporation's multi-brand e-commerce platform.
+- Interested in building scalable backend systems and intelligent AI-powered applications.
+- Strong foundation in Data Structures, Algorithms, and Object-Oriented Programming.
 
 ---
 
-### 📚 KitabSangrah – Library Management System  
-A **full-stack library application** designed to master backend development.
+## `$ experience`
 
-- **Spring Boot + React.js** architecture  
-- CRUD operations for books, users, and transactions  
-- RESTful API design with MySQL  
-- Actively evolving with new features  
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+### Infosys
 
-### 💼 Job Portal Application  
-A complete **job portal system** with multiple user roles.
+**Digital Specialist Engineer**
 
-- **Backend**: Spring Boot, MySQL  
-- **Frontend**: HTML, CSS, JavaScript, Thymeleaf  
-- Job seekers: search & apply for jobs, upload resumes  
-- Recruiters: post jobs, manage candidates  
-- Advanced filters: WFH, part-time, full-time, internships  
+`August 2026 – Present`
 
+- AI engineering training.
+- LangChain and LangGraph.
+- Multi-agent workflow development.
+- Tool integration and orchestration.
+- Human-in-the-loop workflows.
 
-### 🚗 RideMarket – Car Rental Platform  
-A **car rental marketplace** built with a strong focus on **performance, SEO, and accessibility**.
+</td>
+<td width="50%" valign="top">
 
-✨ **Key Highlights:**  
-- Built using **Nuxt 3, Supabase, Tailwind CSS, PostgreSQL**  
-- Dynamic filtering by **city, car make, and price range**  
-- Authentication via **Supabase** (email/password + OAuth) with secure session handling  
-- Relational **PostgreSQL schema** for cars, bookings, and images  
-- Implemented **image upload & retrieval pipeline** to enhance admin dashboard usability  
-- Achieved **100% Lighthouse accessibility score**  
-- Deployed with **SEO-friendly server-side rendering (SSR)** for faster loads and better search rankings  
+### Tech Mahindra
 
----
+**Associate Software Engineer**
 
-### 🪨 StoneStore – Stone Catalog Management App  
-A **full-featured catalog management system** focused on clean UI, state management, and media optimization.
+`September 2024 – July 2026`
 
-✨ **Key Highlights:**  
-- Built with **Vue.js, Pinia, Firebase, Tailwind CSS**  
-- Complete **CRUD functionality** for stone listings  
-- Authentication and real-time updates using **Firebase**  
-- Integrated **Cloudinary** for optimized image storage & delivery  
-- Reduced image load time by **~35%** through media optimization  
-- Centralized global state using **Pinia** for better maintainability  
-- Fully responsive, mobile-first UI with Tailwind CSS  
-- Deployed with **production-ready configuration**  
+**Client: VF Corporation**
+
+- Multi-brand e-commerce platform.
+- Vue 3 and Nuxt 3 development.
+- Product pages, cart and checkout.
+- Pinia state management.
+- API integration and production support.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect With Me  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-u-k-u-n-d)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukund-tiwari-06b433219/)
+## `$ tech-stack`
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,mysql,postgres" />
+</p>
+
+### AI Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge"/>
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vue,nuxt,ts,js,html,css,tailwind" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,aws,docker" />
+</p>
 
 ---
 
-⭐ From **Mukund Tiwari**
+## `$ featured-projects`
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">01. AI Multi-Agent Workflows</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-6C63FF?style=flat-square"/>
+</div>
+
+<p align="center">
+Exploring intelligent workflows using multi-agent orchestration.
+</p>
+
+- Insurance claim processing.
+- Employee leave management.
+- Travel planning workflows.
+- State management and conditional routing.
+- Tool integration and human-in-the-loop decisions.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">02. QuickHire</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</div>
+
+<p align="center">
+A job portal connecting recruiters and job seekers.
+</p>
+
+- Recruiter and job-seeker roles.
+- Authentication and dashboards.
+- Job posting and resume uploads.
+- Job filtering and profile management.
+- Backend CRUD operations.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">03. KitabSangrah</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</div>
+
+<p align="center">
+Full-stack library management application.
+</p>
+
+- Book management and issue tracking.
+- REST API integration.
+- JWT authentication.
+- Search, filters and pagination.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">04. NotesLock</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+</div>
+
+<p align="center">
+Secure personal notes management application.
+</p>
+
+- JWT-based authentication.
+- Protected CRUD operations.
+- Spring Security.
+- Responsive user interface.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `$ problem-solving`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<br/>
+<b>Max Rating: 1892</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Codeforces-Pupil-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<br/>
+<b>Max Rating: 1365</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/CodeChef-3_Star-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+<br/>
+<b>Max Rating: 1698</b>
+</td>
+</tr>
+</table>
+
+<h3>1400+ DSA Problems Solved</h3>
+
+<a href="https://leetcode.com/">
+<img src="https://leetcard.jacoblin.cool/Mukund_Tiwari?theme=dark&font=Fira+Code&ext=heatmap" width="75%" />
+</a>
+
+</div>
+
+---
+
+## `$ github-analytics`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-u-k-u-n-d&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-u-k-u-n-d&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=M-u-k-u-n-d&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## `$ achievements`
+
+- LeetCode Knight — Maximum rating 1892.
+- Codeforces Pupil — Maximum rating 1365.
+- CodeChef 3-Star — Maximum rating 1698.
+- Solved 1400+ DSA problems across platforms.
+- Mentored 300+ students in Data Structures and Algorithms.
+- AIR 176 and College Rank 1 in CodeKaze '23.
+
+---
+
+<div align="center">
+
+### `$ let's_connect`
+
+**Open to learning, collaborating, and building meaningful software.**
+
+<a href="https://www.linkedin.com/in/mukund-tiwari-06b433219/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mukundtiwari251103@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:142B4A,100:090E1A&height=100&section=footer" width="100%"/>
+
+**"First, solve the problem. Then, write the code."**
+
+</div>
+
+<!-- End of README -->
