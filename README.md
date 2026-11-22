@@ -6,7 +6,11 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090E1A,50:142B4A,100:00D9FF&height=220&section=header&text=Mukund%20Tiwari&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Engineering&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
+  <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=200&section=header&text=Mukund%20Tiwari&fontSize=50&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Mukund Tiwari"/>
+
+</div>
 
   <br/>
 
